@@ -1,1 +1,1 @@
-# techshop
+# TechWave
